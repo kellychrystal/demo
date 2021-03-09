@@ -1,0 +1,17 @@
+[Data Source]
+DisplayName=Contacts
+Enabled=true
+Parent=b5294da2839092d42d09294c0c60de248d584646
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=kelly.chrystal62@gmail.com
+CredentialName=
+IsExternal=false
+
+[Address Book]
+BackendName=google

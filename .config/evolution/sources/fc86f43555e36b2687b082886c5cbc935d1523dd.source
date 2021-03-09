@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=kelly.chrystal62@gmail.com
+Enabled=true
+Parent=b5294da2839092d42d09294c0c60de248d584646
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=afce09656a299093a89a352786f9318affb74b70
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=kelly.chrystal62@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

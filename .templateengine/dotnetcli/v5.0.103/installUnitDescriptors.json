@@ -1,0 +1,88 @@
+{
+  "Descriptors": {
+    "384e4ca6-effd-4bbd-b58c-a4c7d733e020": {
+      "DescriptorId": "384e4ca6-effd-4bbd-b58c-a4c7d733e020",
+      "Identifier": "Microsoft.DotNet.Web.ItemTemplates",
+      "FactoryId": "ac33c6a1-52ca-4215-b72d-2dce7f6a1d2f",
+      "MountPointId": "3ac99086-d4a7-41df-8d2e-400c2f3c4d3f",
+      "Details": {
+        "NuGetPackageId": "Microsoft.DotNet.Web.ItemTemplates",
+        "Version": "5.0.3",
+        "Author": "Microsoft"
+      },
+      "IsPartOfAnOptionalWorkload": false
+    },
+    "9edc2359-d68f-4a66-bcb7-357c329e2c11": {
+      "DescriptorId": "9edc2359-d68f-4a66-bcb7-357c329e2c11",
+      "Identifier": "Microsoft.DotNet.Web.ProjectTemplates.5.0",
+      "FactoryId": "ac33c6a1-52ca-4215-b72d-2dce7f6a1d2f",
+      "MountPointId": "fe10a174-7a7a-426b-be25-d9f59d9f01a0",
+      "Details": {
+        "NuGetPackageId": "Microsoft.DotNet.Web.ProjectTemplates.5.0",
+        "Version": "5.0.3",
+        "Author": "Microsoft"
+      },
+      "IsPartOfAnOptionalWorkload": false
+    },
+    "19eff65d-69be-47f4-bcdb-121dbdb575f0": {
+      "DescriptorId": "19eff65d-69be-47f4-bcdb-121dbdb575f0",
+      "Identifier": "Microsoft.DotNet.Web.Spa.ProjectTemplates.5.0",
+      "FactoryId": "ac33c6a1-52ca-4215-b72d-2dce7f6a1d2f",
+      "MountPointId": "5234edd0-6794-4f98-86d3-248e22380493",
+      "Details": {
+        "NuGetPackageId": "Microsoft.DotNet.Web.Spa.ProjectTemplates.5.0",
+        "Version": "5.0.3",
+        "Author": "Microsoft"
+      },
+      "IsPartOfAnOptionalWorkload": false
+    },
+    "3669b0da-6fd1-400e-bdbd-09302266852c": {
+      "DescriptorId": "3669b0da-6fd1-400e-bdbd-09302266852c",
+      "Identifier": "NUnit3.DotNetNew.Template",
+      "FactoryId": "ac33c6a1-52ca-4215-b72d-2dce7f6a1d2f",
+      "MountPointId": "b14b6d1a-cdae-4cfd-bbd6-fd2b13352bd3",
+      "Details": {
+        "NuGetPackageId": "NUnit3.DotNetNew.Template",
+        "Version": "1.8.1",
+        "Author": "akharlov"
+      },
+      "IsPartOfAnOptionalWorkload": false
+    },
+    "af219d2a-8f40-4cbe-a97e-44cee68b3b38": {
+      "DescriptorId": "af219d2a-8f40-4cbe-a97e-44cee68b3b38",
+      "Identifier": "Microsoft.DotNet.Common.ProjectTemplates.5.0",
+      "FactoryId": "ac33c6a1-52ca-4215-b72d-2dce7f6a1d2f",
+      "MountPointId": "717536f8-3205-450d-b73a-561dc2e08fef",
+      "Details": {
+        "NuGetPackageId": "Microsoft.DotNet.Common.ProjectTemplates.5.0",
+        "Version": "5.0.3",
+        "Author": "Microsoft"
+      },
+      "IsPartOfAnOptionalWorkload": false
+    },
+    "c58257cf-754d-47da-9ead-bfbd555ff55b": {
+      "DescriptorId": "c58257cf-754d-47da-9ead-bfbd555ff55b",
+      "Identifier": "Microsoft.DotNet.Common.ItemTemplates",
+      "FactoryId": "ac33c6a1-52ca-4215-b72d-2dce7f6a1d2f",
+      "MountPointId": "8c6fe18a-1c95-48da-ad34-588add548ee6",
+      "Details": {
+        "NuGetPackageId": "Microsoft.DotNet.Common.ItemTemplates",
+        "Version": "5.0.3",
+        "Author": "Microsoft"
+      },
+      "IsPartOfAnOptionalWorkload": false
+    },
+    "c05979c7-fb26-454d-81c8-b828c3bd180b": {
+      "DescriptorId": "c05979c7-fb26-454d-81c8-b828c3bd180b",
+      "Identifier": "Microsoft.DotNet.Test.ProjectTemplates.5.0",
+      "FactoryId": "ac33c6a1-52ca-4215-b72d-2dce7f6a1d2f",
+      "MountPointId": "a468b79f-384d-4254-b516-55c38c6fd495",
+      "Details": {
+        "NuGetPackageId": "Microsoft.DotNet.Test.ProjectTemplates.5.0",
+        "Version": "1.0.2-beta4.20420.1",
+        "Author": "Microsoft"
+      },
+      "IsPartOfAnOptionalWorkload": false
+    }
+  }
+}
